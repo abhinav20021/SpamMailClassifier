@@ -1,6 +1,7 @@
 # IMPORTING DEPENDENCIES AND LIBRARIES
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer #To convert text data into numeric data.
 from sklearn.ensemble import RandomForestClassifier
