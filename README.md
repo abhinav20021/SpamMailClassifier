@@ -1,6 +1,7 @@
 A spam mail classifier is a machine learning application designed to automatically identify and filter out unwanted and potentially harmful emails, commonly referred to as spam, from legitimate ones. This classifier leverages a combination of natural language processing (NLP) techniques and machine learning algorithms to achieve high accuracy in spam detection.
 
 Components of a Spam Mail Classifier
+
 1.Text Preprocessing:
 Tokenization: Breaking down the email text into individual words or tokens.
 Lowercasing: Converting all text to lowercase to ensure uniformity.
