@@ -2,7 +2,7 @@ A spam mail classifier is a machine learning application designed to automatical
 
 Components of a Spam Mail Classifier
 
-#1.Text Preprocessing:
+#1.Text Preprocessing#:
 Tokenization: Breaking down the email text into individual words or tokens.
 Lowercasing: Converting all text to lowercase to ensure uniformity.
 Removing Punctuation and Special Characters: Stripping out punctuation, special characters, and sometimes numbers to focus on meaningful words.
